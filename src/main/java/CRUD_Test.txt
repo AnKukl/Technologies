@@ -1,0 +1,11 @@
+ 10 business-processes for subject area VIDEO HOSTING, and their compliance with CRUD:
+  1.Uploading videos to the platform (Create)
+  2.Deleting videos from the platform (Delete)
+  3.Watching the video (Read)
+  4.Like (Create)
+  5.Dislike (Create)
+  6.Subscribe the channel (Create)
+  7.Remove the subscription (Update)
+  8.Change video quality (Update)
+  9.Write a comment (Create)
+  10.Edit comment (Update)
