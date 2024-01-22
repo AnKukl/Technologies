@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84dfb482-f13e-416c-9528-f669645332ca" name="Changes" comment="HW_04.12.2023">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW-11_12_23.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW18_12_2024.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/relations.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TELRANPROREP/javalessons" beforeDir="false" afterPath="$PROJECT_DIR$/../TELRANPROREP/javalessons" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW_041223.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW_041223.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../proftelrncourse1" beforeDir="false" afterPath="$PROJECT_DIR$/../proftelrncourse1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
